@@ -14,7 +14,6 @@ import re
 cat_file = 'categories.txt'
 
 categories = [line.strip() for line in open(cat_file, 'r').readlines()]
-#categories = cat_column.split('\n')
 
 # This directory contains the "diet app" entries elicited from Turks
 src_dir = 'data'
