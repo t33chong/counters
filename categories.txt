@@ -1,0 +1,41 @@
+pork
+pheasant
+fish
+frankfurter
+bacon
+goose
+duck
+kielbasa
+quail
+chicken
+dove
+lamb
+sausage
+ham
+beef
+bologna
+pate de foie gras
+brotwurst
+squab
+veal
+goat
+turkey
+pastrami
+cheesefurter
+salami
+game
+pate
+bratwurst
+beerwurst
+guinea hen
+poultry
+luncheon meat
+knackwurst
+ostrich
+emu
+bison
+pepperoni
+bockwurst
+chorizo
+braunschweiger
+venison
